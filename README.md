@@ -14,8 +14,4 @@ This repository contains projects for implementing AI agents.
 🤖 Stride Agent: Agente para Detecção de Vulnerabilidades em Arquiteturas
 
 (Stride Agent: Agent for Vulnerability Detection in Architectures)
-- This project was implemented as part of a cybersecurity challenge applied to modern architectures, using:
- - Python + FastAPI for the backend API
- - Azure OpenAI for generating threat models via prompt engineering
- - Cytoscape.js for visualizing the threat graph
- The goal is to demonstrate how the STRIDE methodology can be automatically applied to support risk analysis in software architectures. This project was implemented as a "project challenge" for the BairesDev - Machine Learning Training course, promoted by Dio in partnership with BairesDev.
+- This project was implemented as part of a cybersecurity challenge applied to modern architectures, using: 1. Python + FastAPI for the backend API; 2. Azure OpenAI for generating threat models via prompt engineering; 3. Cytoscape.js for visualizing the threat graph. The goal is to demonstrate how the STRIDE methodology can be automatically applied to support risk analysis in software architectures. This project was implemented as a "project challenge" for the BairesDev - Machine Learning Training course, promoted by Dio in partnership with BairesDev.

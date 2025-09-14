@@ -55,8 +55,8 @@ stride-threat-analyzer/
 ---
 ### 2. Clonando o repositório
 ```bash
-git clone https://github.com/seu-usuario/stride-threat-analyzer.git
-cd stride-threat-analyzer
+git clone https://github.com/thiagotims/ai-agents.git
+cd ai-agents/stride-agent
 ```
 
 ---

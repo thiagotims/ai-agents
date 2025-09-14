@@ -10,3 +10,8 @@ This repository contains projects for implementing AI agents.
 
 🤖 **AI Multi-Agent Writer**
 - This project demonstrates the creation of a collaborative system consisting of three AI agents—a planner, a writer, and an editor—that work together to automatically produce optimized, cohesive articles based on a central theme. The system is powered by the LLaMA 3 model via Ollama and orchestrated by the CrewAI library.
+
+🤖 Stride Agent: Agente para Detecção de Vulnerabilidades em Arquiteturas
+
+(Stride Agent: Agent for Vulnerability Detection in Architectures)
+- dddd

@@ -1,0 +1,9 @@
+# Dependências principais para o Gerador Automático de Testes
+langchain>=0.2.0
+langchain-openai>=0.1.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+pytest>=7.0.0
+
+# Dependências auxiliares
+requests>=2.28.0

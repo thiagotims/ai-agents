@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-0078d4.svg)](https://azure.microsoft.com/en-us/products/cognitive-services/openai-service/)
 
-Um agente inteligente que utiliza **LangChain** e **Azure OpenAI** para gerar automaticamente arquivos de teste pytest abrangentes e bem estruturados a partir de módulos Python. Esse projeto foi implementado como "desafio de projeto" do curso BairesDev - Machine Learning Training promovido pela Dio em parceria com a BairesDev.
+Um agente inteligente que utiliza **LangChain** e **Azure OpenAI** para gerar automaticamente arquivos de teste pytest abrangentes e bem estruturados a partir de módulos Python. Esse projeto foi implementado como "desafio de projeto" do curso BairesDev - Machine Learning Training promovido pela Dio em parceria com a BairesDev. Esse projeto foi implementado como "desafio de projeto" do curso BairesDev - Machine Learning Training promovido pela Dio em parceria com a BairesDev.
 
 ----
 ## 🎯 **Funcionalidades**

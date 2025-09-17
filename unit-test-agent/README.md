@@ -34,9 +34,9 @@ pip install langchain langchain-openai openai python-dotenv pytest
 
 ### 1. Clone e Configure o Ambiente
 ```bash
-git clone https://github.com/thiagotims/nlp.git
+git clone https://github.com/thiagotims/ai-agents.git
 cd unit-test-agent
-pip install -r requirements.txt  # ou instale as dependências manualmente
+pip install -r requirements.txt  
 ```
 
 ### 2. Configure o Azure OpenAI
@@ -196,6 +196,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Thiago Tim**  
 
 Contribuições são bem-vindas!  Entre em contato:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devtim/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thiagotimdev@gmail.com)
 
 ---

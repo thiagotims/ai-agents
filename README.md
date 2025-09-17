@@ -19,4 +19,4 @@ This repository contains projects for implementing AI agents.
 🤖 **Gerador Automático de Testes Pytest com Azure OpenAI** *
 
 (Automatic Pytest Test Generator with Azure OpenAI)
-An intelligent agent that uses LangChain and Azure OpenAI to automatically generate comprehensive and well-structured pytest test files from Python modules. This project was implemented as a "project challenge" for the BairesDev - Machine Learning Training course, promoted by Dio in partnership with BairesDev. This project was implemented as a "project challenge" for the BairesDev - Machine Learning Training course, promoted by Dio in partnership with BairesDev.
+- An intelligent agent that uses LangChain and Azure OpenAI to automatically generate comprehensive and well-structured pytest test files from Python modules. This project was implemented as a "project challenge" for the BairesDev - Machine Learning Training course, promoted by Dio in partnership with BairesDev. This project was implemented as a "project challenge" for the BairesDev - Machine Learning Training course, promoted by Dio in partnership with BairesDev.
